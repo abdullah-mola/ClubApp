@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hiring Project Android</string>
+    <string name="millions">miliony</string>
+    <string name="the_club">Klub</string>
+    <string name="from">z</string>
+    <string name="value">ma wartość</string>
+    <string name="euro">Miliony euro</string>
+    <string name="achievements1">" był w stanie do tej pory odnieść"</string>
+    <string name="achievements2">zwycięstw na szczeblu europejskim.</string>
+    <string name="filter_by_name">Filtruj wg nazwy</string>
+    <string name="filter_by_value">Filtruj po wartości</string>
+</resources>

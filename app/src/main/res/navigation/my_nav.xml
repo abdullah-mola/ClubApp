@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mynav"
+    app:startDestination="@id/clubsFragment">
+    <fragment
+        android:id="@+id/clubsFragment"
+        android:name="com.example.hiringapp.ui.ClubsFragment"
+        android:label="fragment_clubs"
+        tools:layout="@layout/fragment_clubs" >
+        <argument
+            android:name="name"
+            app:argType="string"/>
+        <action
+            android:id="@+id/action_clubsFragment_to_clubsDetailsFragment"
+            app:destination="@id/clubsDetailsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/clubsDetailsFragment"
+        android:name="com.example.hiringapp.ui.ClubsDetailsFragment"
+        android:label="fragment_clubs_details"
+        tools:layout="@layout/fragment_clubs_details" >
+        <argument
+            android:name="name"
+            app:argType="string"/>
+        <action
+            android:id="@+id/action_clubsDetailsFragment_to_clubsFragment"
+            app:destination="@id/clubsFragment" />
+    </fragment>
+</navigation>

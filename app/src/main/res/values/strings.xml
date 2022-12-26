@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Hiring Project Android</string>
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="millions">  Millions </string>
+    <string name="the_club">The Club </string>
+    <string name="from"> from </string>
+    <string name="value"> has a value of </string>
+    <string name="euro"> Millions Euro</string>
+    <string name="achievements1"> has been able to achieve </string>
+    <string name="achievements2">wins at European level so far</string>
+    <string name="filter_by_name"> Filter By Name </string>
+    <string name="filter_by_value"> Filter By value </string>
+
+
+</resources>
