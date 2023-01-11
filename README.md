@@ -1,9 +1,5 @@
 # Club App Developed in Kotlin
-A customer needs an app that displays an up-to-date ranking of top European soccer teams. The ranking is recalculated daily based on market values.
-A backend that has already been implemented handles all evaluations and prepares the data specifically for the app. It returns an unsorted list of clubs.
-Subsequent change by the customer:
-The API returns another field that indicates how many titles the respective club has already won at European level (Champions Cup, Champions League, Europa League)
-Example: "european_titles": 4
+App that displays an up-to-date ranking of top European soccer teams. The ranking is recalculated daily based on market values. A backend that has already been implemented handles all evaluations and prepares the data specifically for the app. It returns an unsorted list of clubs. Subsequent change by the customer: The API returns another field that indicates how many titles the respective club has already won at European level (Champions Cup, Champions League, Europa League)
 
 
 ## Screenshots
