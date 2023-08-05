@@ -26,6 +26,10 @@ App that displays an up-to-date ranking of top European soccer teams. The rankin
 
 # API
 * https://public.allaboutapps.at/hiring/clubs.json
-# Presentation 
+# Presentation English
 * https://tome.app/abdullah-ded/mastering-android-development-with-kotlin-mvvm-hilt-navigation-rxjava-retrofit-glide-material-design-room-alertdialog-switch-and-sorting-options-clky0w2zi01kol95qtzug7qkd
+
+# Präsentation Deutsch
+* https://tome.app/abdullah-ded/meisterung-der-android-entwicklung-mit-kotlin-mvvm-hilt-navigation-rxjava-retrofit-glide-material-design-room-alertdialog-switch-und-sortieroptionen-clky51l6401tso85pl8nh3c6o
+
 
