@@ -1,6 +1,9 @@
 # Club App Developed in Kotlin
 App that displays an up-to-date ranking of top European soccer teams. The ranking is recalculated daily based on market values. A backend that has already been implemented handles all evaluations and prepares the data specifically for the app. It returns an unsorted list of clubs. Subsequent change by the customer: The API returns another field that indicates how many titles the respective club has already won at European level (Champions Cup, Champions League, Europa League)
 
+# Club-App entwickelt in Kotlin
+
+Eine App, die eine aktuelle Rangliste der besten europäischen Fußballteams anzeigt. Die Rangliste wird täglich neu berechnet, basierend auf den Marktwerten. Ein bereits implementierter Backend übernimmt alle Bewertungen und bereitet die Daten speziell für die App auf. Es liefert eine unsortierte Liste von Clubs zurück. Anschließende Änderung durch den Kunden: Die API gibt ein weiteres Feld zurück, das anzeigt, wie viele Titel der jeweilige Club bereits auf europäischer Ebene gewonnen hat (Champions Cup, Champions League, Europa League).
 
 ## Screenshots
 
